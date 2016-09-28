@@ -20,8 +20,8 @@ CS 304 - 001
 
 # AUTHORS
 ----------------
-	Sarah  Qureshi (Initial README author)
-	Scott Troutman (Contributor to game project)
-	Brendan Fink (Contributor to game project)
-	Lydia Wright (Contributor to game project)
-	Alyssa Hughes (Contributor to game project)
+- Sarah  Qureshi (Initial README author)
+- Scott Troutman (Contributor to game project)
+- Brendan Fink (Contributor to game project)
+- Lydia Wright (Contributor to game project)
+- Alyssa Hughes (Contributor to game project)
